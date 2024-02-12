@@ -85,3 +85,9 @@ and this project adheres to [Semantic Versioning].
 
 - Connection to the device is postponed now. Previously some out of range device might prevents HA from fully booting.
 - Improved connection stability.
+
+## [12.02.2024]
+
+### Added
+
+- Added support for Home Assistant 2024.2.0
